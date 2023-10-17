@@ -1,6 +1,6 @@
 # Siamese-Neural-Network
 
-A Saimese Neural Network is a form of a twin network, consisting of two identical subnetworks. The networks have the same configurations, parameters and weights, hence identical. A pair of images is passed through each network, thus computing the features of each image. The similarity is then computed by passing the feature pairs through a euclidean distance function. The aim of the network is to produce a value such that we know if the images are different or the same, with 0 for different, 1 for same.
+A Saimese Neural Network is a form of a twin network, consisting of two identical subnetworks. The networks have the same configurations, parameters and weights, henc identical. A pair of images is passed through each network, thus computing the features of each image. The similarity is then computed by passing the feature pairs through a euclidean distance function. The aim of the network is to produce a value such that we know if the images are different or the same, with 0 for different, 1 for same.
 
 
 ## Loss Function
